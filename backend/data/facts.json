@@ -1,0 +1,20 @@
+{
+  "full_name": "Ismail Habib",
+  "name": "IH",
+  "current_role": "Computer Science and Engineering Student & Aspiring MLOps Engineer",
+  "location": "Frankfurt am Main, Germany",
+  "specialties": [
+    "MLOps",
+    "Machine Learning",
+    "AWS",
+    "Data Engineering"
+  ],
+  "years_experience": 3,
+  "education": [
+    {
+      "degree": "Business Administration",
+      "institution": "Eastern Mediterranean University",
+      "year": "2024"
+    }
+  ]
+}
